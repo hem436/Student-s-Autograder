@@ -5,7 +5,7 @@ requires any python notebook with python 3.8+
 Required libraries:
 - pandas
 - numpy
-- tabula
+- re
 - PyPDF2
 
 Steps to run:
